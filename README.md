@@ -1,19 +1,19 @@
-# Poetic computation
+# poetic-computation
 Exploring code as an art material.
 
 http://railsgirlssummerofcode.org
 
-This is a bit of a different project in terms of scope. The goal here is to 
+This is a bit of a different project in terms of scope. Code is often thought about in terms of building solutions, but our goal is a little different:
 
-`create some open source *art* using code and *share* it with people.`
+`Create an open source piece of *art* using code and *share* it with people.`
 
 I'm not going to tell you what art to make, but I'm here to help you on the journey. 
 
-Lets make no mistake this is a deeply technical project that will require working with and contributing to many open-source projects. Sharing your work with the programming and wider community. 
+Lets make no mistake this is a deeply technical project that will require working with and contributing to many open-source projects. There is also the opportunity (if you want) to look at various programming languages like Ruby, C++ & Clojure. A key part of the project is sharing your work with the programming and wider community. 
 
 Most of my experience is with live coding of music and visuals as part of a performance. So that might a good place to start, but anything is possible. Examples are a good place explore for ideas.
 
-### Examples code art
+### Example Code Art
 
 * Stanford code poetry slam - http://stanford.edu/~mkagen/codepoetryslam/
 * Repl Electric - live coding as a performance: http://www.repl-electric.com
