@@ -1,4 +1,4 @@
-# poetic-computation
+# Poetic Computation
 Exploring code as an art material.
 
 http://railsgirlssummerofcode.org
