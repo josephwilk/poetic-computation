@@ -5,11 +5,11 @@ http://railsgirlssummerofcode.org
 
 This is a bit of a different project in terms of scope. Code is often thought about in terms of building solutions, but our goal is a little different:
 
-Demonstrate and share the power of code as an artistic material.
+`Demonstrate and share the power of code as an artistic material.`
 
 That sounds a bit fancy, what we really are looking at is:
 
-Creating an open source piece of *art* using Ruby and Sonic Pi and *share* it with people.
+`Creating an open source piece of *art* using Ruby and Sonic Pi and *share* it with people.`
 
 In terms of issues or features this project is different in terms of not wanting to tell you what art to make. I'm here to help you on the journey.
 
